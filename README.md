@@ -83,3 +83,7 @@
 <sub>Thanks for all the fish.</sub>
 
 </div>
+
+## 来源与许可
+
+本仓库是 [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) 的镜像分支。上游采用 [CC BY-NC-SA 4.0](LICENSE) 许可证；本分支保留上游署名与许可证。
